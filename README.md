@@ -1,4 +1,4 @@
-# Pro-Mina-SPA
+# Pro-Mina-Frontend
 
 ## Project setup
 ```
