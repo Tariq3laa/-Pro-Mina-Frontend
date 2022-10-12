@@ -1,0 +1,34 @@
+{
+  "name": "pro-mina",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@meforma/vue-toaster": "^1.3.0",
+    "axios": "^0.21.1",
+    "bootstrap": "^5.2.2",
+    "bootstrap-vue": "^2.22.0",
+    "core-js": "^3.6.5",
+    "cxlt-vue2-toastr": "^1.1.1",
+    "vue": "^2.7.11",
+    "vue-router": "^3.2.0",
+    "vue-spinners": "^1.0.2",
+    "vue-window-modal": "github:ropbla9/vue-window-modal",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
